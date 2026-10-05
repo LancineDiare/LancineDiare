@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LancineDiare
 - 👀 I’m interested in information technology 
 - 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on creating my first book 
+- 💞️ I’m looking to collaborate on creating my first app 
 - 📫 How to reach me lancine.diare1@gmail.com
 
 <!---
